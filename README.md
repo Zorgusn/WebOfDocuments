@@ -5,8 +5,8 @@ If an example is needed to help visualize it. Look up Obsidian, its a desktop ap
 
 Current Minimal Plan:
 
-User is able to create text documents.
+User is able to create markdown documents.
 
-User is able to use markdown syntax within text documents.
+User is able to use markdown syntax within documents.
 
 User is able to add links within text documents; special form for only going to another document on the site?
